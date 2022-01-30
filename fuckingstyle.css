@@ -1,0 +1,49 @@
+body {
+	max-width: 650px;
+	margin: 40px auto;
+	padding: 0 10px;
+	font: 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+		"Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+		"Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	color: #444;
+}
+
+p {
+	text-align: justify;
+}
+
+.info {
+	font-family: "Space Mono";
+	line-height: 1.2;
+	color: black;
+}
+
+.arrow {
+	color: rgb(201, 141, 63);
+	font-weight: bolder;
+}
+
+.info > span {
+	font-style: italic;
+}
+
+h1, h2, h3 {
+	font-family: "Space Mono";
+	line-height: 1.2;
+}
+
+h1 {
+	color: rgb(201, 141, 63);
+}
+
+h2 {
+	color: rgb(158, 101, 26);
+}
+
+h3 {
+	color: black;
+}
+
+a:visited {
+	color: rgb(201, 141, 63);
+}
